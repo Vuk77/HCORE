@@ -1,5 +1,7 @@
 <div align="center">
-  <img alt="homepage" src="./HardcoreReforger/thumbnail.png" />
+  <kbd>
+    <img alt="homepage" src="./HardcoreReforger/thumbnail.png" width="250px"/>
+  </kbd>
 </div>
 
 # Hardcore Reforger
