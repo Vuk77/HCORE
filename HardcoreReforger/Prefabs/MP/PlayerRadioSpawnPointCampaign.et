@@ -1,0 +1,9 @@
+SCR_PlayerRadioSpawnPointCampaign {
+ ID "566E74750B2653A8"
+ components {
+  SCR_MapDescriptorComponent "{566E74750B2653D9}" {
+   Enabled 0
+  }
+ }
+ m_bSpawnPointEnabled 0
+}
