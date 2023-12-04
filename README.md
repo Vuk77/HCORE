@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="homepage" src="./HardcoreReforger/thumbnail.png" />
+</div>
+
 # Hardcore Reforger
 
 This repository contains a mod for Arma Reforger aimed at enhancing the vanilla gameplay experience. Key modifications include the disabling of fast travel and the refinement of the radio backpack mechanics. Please refer to the detailed description below for additional features.
