@@ -14,7 +14,7 @@ This repository contains a mod for Arma Reforger aimed at enhancing the vanilla 
 
 - Radio backpack: **disabled** the ability to spawn on radio backpack that is not deployed.
 - Radio backpack: increased the respawn amount from **10** to **24** for deployed radios.
-- Radio backpack: time to deploy radio backpack increased from **5** to **10** seconds.
+- Radio backpack: time to deploy radio backpack increased from **5** to **8** seconds.
 
 - Starting vehicles: added **2** more vehicles at the start.
 
