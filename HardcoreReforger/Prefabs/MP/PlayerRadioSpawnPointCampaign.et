@@ -4,6 +4,14 @@ SCR_PlayerRadioSpawnPointCampaign {
   SCR_MapDescriptorComponent "{566E74750B2653D9}" {
    Enabled 0
   }
+  RplComponent "{566E74750B2653DA}" {
+   Enabled 0
+   "Self Insert" 0
+  }
+  Hierarchy "{566E74750B2653D0}" {
+   Enabled 0
+   AutoTransform 0
+  }
  }
  m_bSpawnPointEnabled 0
 }
