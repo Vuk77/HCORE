@@ -24,7 +24,7 @@ __Balance changes!__
 - Helicopters: rank increased to **lieutenant** and the cost increased for **500** supplies.
 - Small Living Quarters: removed.
 - Large Living Quartes: rank increased to **sergeant**.
-- Large Living Quartes: cost increased from **475 **to **1250 **supplies.
+- Large Living Quartes: cost increased from **475** to **1250** supplies.
 
 ## 🤔 Where to play?
 Thanks to Steve for providing us with a server, now you can check the mod out on **HARDCORE REFORGER #1** in the server tab.
