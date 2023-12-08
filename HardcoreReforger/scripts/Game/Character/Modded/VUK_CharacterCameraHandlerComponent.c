@@ -14,20 +14,30 @@ modded class SCR_CharacterCameraHandlerComponent
             CompartmentAccessComponent compartmentAccess = m_OwnerCharacter.GetCompartmentAccessComponent();
 			IEntity vehicle = compartmentAccess.GetVehicleIn(m_OwnerCharacter);
 			BaseCompartmentSlot currentCompartment = compartmentAccess.GetCompartment();
+			bool isTurretAds = false;
+			bool inTurret = CheckIsInTurret(isTurretAds);
 			
-            if(!vehicle.GetPrefabData().GetPrefabName().Contains("BTR70"))
-            {
-				SetThirdPerson(false);
+			if(!inTurret)
+			{
+				if(!vehicle.GetPrefabData().GetPrefabName().Contains("BTR70"))
+            	{
+					SetThirdPerson(false);
 				
-				return CharacterCameraSet.CHARACTERCAMERA_1ST_VEHICLE;
-            }
+					return CharacterCameraSet.CHARACTERCAMERA_1ST_VEHICLE;
+            	}
+				
+				if(currentCompartment && currentCompartment.GetType() != ECompartmentType.Pilot)
+            	{
+					SetThirdPerson(false);
+				
+					return CharacterCameraSet.CHARACTERCAMERA_1ST_VEHICLE;
+				}
+			}
 			
-			if(currentCompartment && currentCompartment.GetType() != ECompartmentType.Pilot)
-            {
+			if(currentCompartment && currentCompartment.GetType() == ECompartmentType.Turret)
+			{
 				SetThirdPerson(false);
-				
-				return CharacterCameraSet.CHARACTERCAMERA_1ST_VEHICLE;
-            }
+			}
         }    
 
         return super.CameraSelector();
