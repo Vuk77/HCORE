@@ -10,19 +10,21 @@ This repository contains a mod for Arma Reforger aimed at enhancing the vanilla 
 
 ## 📜 Current features
 
+__Gameplay changes!__
 - Fast travel: **disabled**.
-
 - Radio backpack: **disabled** the ability to spawn on radio backpack that is not deployed.
 - Radio backpack: increased the respawn amount from **10** to **24** for deployed radios.
 - Radio backpack: time to deploy radio backpack increased from **5** to **8** seconds.
-
-- Starting vehicles: added **2** more vehicles at the start.
-
-- Squad: increased the squad size from **6** to **8**.
-
-- Helicopters: rank increased to **lieutenant** and the cost increased for **500** supplies.
-
+- Perspective: force **1p** expect in BTR driver seat.
 - Killfeed: **full**.
+
+__Balance changes!__
+- Starting vehicles: added **2** more vehicles at the start.
+- Squad: increased the squad size from **6** to **8**.
+- Helicopters: rank increased to **lieutenant** and the cost increased for **500** supplies.
+- Small Living Quarters: removed.
+- Large Living Quartes: rank increased to **sergeant**.
+- Large Living Quartes: cost increased from **475 **to **1250 **supplies.
 
 ## 🤔 Where to play?
 Thanks to Steve for providing us with a server, now you can check the mod out on **HARDCORE REFORGER #1** in the server tab.
