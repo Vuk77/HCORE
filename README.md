@@ -22,7 +22,7 @@ __Balance changes!__
 - Starting vehicles: added **2** more vehicles at the start.
 - Squad: increased the squad size from **6** to **8**.
 - Helicopters: rank increased to **lieutenant** and the cost increased for **500** supplies.
-- Small Living Quarters: removed.
+- Small Living Quarters: **removed**.
 
 ## 🤔 Where to play?
 Thanks to Steve for providing us with a server, now you can check the mod out on **HARDCORE REFORGER #1** in the server tab.
