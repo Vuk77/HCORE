@@ -1,0 +1,8 @@
+SCR_PlayerController : "{6E2BB64764E3BE9B}Prefabs/Characters/Core/DefaultPlayerController.et" {
+ ID "1A9BA6BEFA06E3B1"
+ components {
+  SCR_FastTravelComponent "{5DAA74121E45C2EB}" {
+   Enabled 0
+  }
+ }
+}

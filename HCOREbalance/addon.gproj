@@ -1,0 +1,8 @@
+GameProject {
+ ID "HCOREbalance"
+ GUID "5F170B3434C619B1"
+ TITLE "HCOREbalance"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
