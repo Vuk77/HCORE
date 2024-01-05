@@ -10,23 +10,23 @@ This repository contains a mod for Arma Reforger aimed at enhancing the vanilla 
 
 ## 📜 Current features
 
-> 🧭 [**HCORE - Base**](https://reforger.armaplatform.com/workshop/5F16EB983E502B00-HCORE-Base)
-> - Fast travel: **disabled**.
-> - Radio backpack: **disabled** the ability to spawn on radio backpack that is not deployed.
-> - Radio backpack: increased the respawn amount from **10** to **24** for deployed radios.
-> - Radio backpack: time to deploy radio backpack increased from **5** to **8** seconds.
-> - Perspective: force **1p** expect in BTR driver seat.
-> - Killfeed: **friendly-only**.
+🧭 [**HCORE - Base**](https://reforger.armaplatform.com/workshop/5F16EB983E502B00-HCORE-Base)
+- Fast travel: **disabled**.
+- Radio backpack: **disabled** the ability to spawn on radio backpack that is not deployed.
+- Radio backpack: increased the respawn amount from **10** to **24** for deployed radios.
+- Radio backpack: time to deploy radio backpack increased from **5** to **8** seconds.
+- Perspective: force **1p** expect in BTR driver seat.
+- Killfeed: **friendly-only**.
 
-> 🧭 [**HCORE - Balance**](https://reforger.armaplatform.com/workshop/5F170B3434C619B1-HCORE-Balance)
-> - Starting vehicles: added **2** more vehicles at the start.
-> - Squad: increased the squad size from **6** to **8**.
-> - Helicopters: rank increased to **lieutenant** and the cost increased for **500** supplies.
-> - Small Living Quarters: **removed**.
-> - Arsenal: **increased** cost of some items.
+🧭 [**HCORE - Balance**](https://reforger.armaplatform.com/workshop/5F170B3434C619B1-HCORE-Balance)
+- Starting vehicles: added **2** more vehicles at the start.
+- Squad: increased the squad size from **6** to **8**.
+- Helicopters: rank increased to **lieutenant** and the cost increased for **500** supplies.
+- Small Living Quarters: **removed**.
+- Arsenal: **increased** cost of some items.
 
-> 🧭 **HCORE MEDICAL**
-> SOON
+🧭 **HCORE MEDICAL**
+- SOON
 
 ## 🤔 Where to play?
 Thanks to Steve for providing us with a server, now you can check the mod out on **HARDCORE REFORGER #1** in the server tab.
