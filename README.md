@@ -4,11 +4,11 @@
   </kbd>
 </div>
 
-# Hardcore Reforger
+# HCORE
 
-This repository contains a mod for Arma Reforger aimed at enhancing the vanilla gameplay experience. Key modifications include the disabling of fast travel and the refinement of the radio backpack mechanics. Please refer to the detailed description below for additional features.
+This repository contains collection of modules for Arma Reforger aimed at enhancing the vanilla gameplay experience. Key modifications include the disabling of fast travel and the refinement of the radio backpack mechanics. Please refer to the detailed description below for additional features.
 
-## 📜 Current features
+## 📜 Current modules
 
 🧭 [**HCORE - Base**](https://reforger.armaplatform.com/workshop/5F16EB983E502B00-HCORE-Base)
 - Fast travel: **disabled**.
@@ -29,7 +29,7 @@ This repository contains a mod for Arma Reforger aimed at enhancing the vanilla 
 - SOON
 
 ## 🤔 Where to play?
-Thanks to Steve for providing us with a server, now you can check the mod out on **HARDCORE REFORGER #1** in the server tab.
+At this moment no servers are running our mod.
 
 ## ⚡ Installation
 To install this mod, follow these steps:
