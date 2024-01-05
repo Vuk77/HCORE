@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-    <img alt="homepage" src="./HardcoreReforger/thumbnail.png" width="250px"/>
+    <img alt="homepage" src="./HCOREextra/HCORE.png" width="250px"/>
   </kbd>
 </div>
 
