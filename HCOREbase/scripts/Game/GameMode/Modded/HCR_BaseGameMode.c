@@ -8,7 +8,7 @@ modded class SCR_BaseGameMode : BaseGameMode
 		if (!sender)
 			return;
 		
-		sender.SetKillFeedType(EKillFeedType.FULL);
-		sender.SetReceiveKillFeedType(EKillFeedReceiveType.ALLIES_ONLY);
+		sender.SetKillFeedType(EKillFeedType.DISABLED);
+		sender.SetReceiveKillFeedType(EKillFeedReceiveType.ALL);
 	}
 }
