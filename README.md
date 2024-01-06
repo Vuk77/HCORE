@@ -16,7 +16,7 @@ This repository contains collection of modules for Arma Reforger aimed at enhanc
 - Radio backpack: increased the respawn amount from **10** to **24** for deployed radios.
 - Radio backpack: time to deploy radio backpack increased from **5** to **8** seconds.
 - Perspective: force **1p** expect in driver and gunner seat.
-- Killfeed: **friendly-only**.
+- Killfeed: **disabled**.
 
 🧭 [**HCORE - Balance**](https://reforger.armaplatform.com/workshop/5F170B3434C619B1-HCORE-Balance)
 - Starting vehicles: added **2** more vehicles at the start.
